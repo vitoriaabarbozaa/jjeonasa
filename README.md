@@ -8,7 +8,7 @@
 </p>
 
 <p align='center'>  
-  <a href="LINK_DO_SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/vit%C3%B3ria-barboza-042852350/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="www.instagram.com/vitoriaa.barboza">
@@ -36,4 +36,3 @@ ___
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjeonasa" alt="Status" /> </p>
 
 ### Obrigado por visitar!!
-### Estes são meus 6 melhores repositórios 👇 
