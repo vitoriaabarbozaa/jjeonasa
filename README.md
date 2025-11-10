@@ -77,7 +77,7 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail)](mailto:vitoriabarboza512@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/vitoriaa.barboza/)
-  [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord)](https://discord.gg/8kc8HqXVw2)
+  [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord)](https://discord.gg/Ud4udpTS)
   [![Linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/vit%C3%B3ria-barboza-042852350/)
   
 </div>
